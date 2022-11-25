@@ -15,4 +15,6 @@ This is a web based application developed for health related website
 - Has collection of many web pages including Home, About Us, categories, health topics and health related information etc.
 - User can know about health information through this website.
 - Included the comment space to increase the scope of improvement 
-![Screenshot (3)](https://user-images.githubusercontent.com/118965406/203945652-87027c29-1db6-48d0-acab-15fb30abf0bb.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/118965406/203946106-16e6577a-4499-409d-906d-843f7316174c.jpg)
+
+
