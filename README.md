@@ -18,7 +18,7 @@ This is a web based application developed for health related website
 
 🔗Screenshots
 ![home](https://user-images.githubusercontent.com/118965406/203961387-dfe710b3-619a-4dae-8824-ec8a6620c5e5.png)
-🔗Desclimer
+🔗Desclaimer
 ![Desclimer](https://user-images.githubusercontent.com/118965406/203962030-2cb4c9fe-d911-448f-b96e-aa02a1e970ae.jpg)
 🔗Posts
 ![1](https://user-images.githubusercontent.com/118965406/203962157-78562925-7a14-44e1-80e7-dabf4055fc86.jpg)
